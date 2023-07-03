@@ -16,5 +16,12 @@
       "profession": "FSD",
       "id": 2
     }
+  ],
+  "login":[
+    {
+        "email": "abc@mail",
+        "password": "abc@123"
+    }
+
   ]
 }
